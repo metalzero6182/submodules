@@ -1,6 +1,7 @@
 [submodule "lib/flow_test"]
 	path = lib/flow_test
 	url = https://github.com/metalzero6182/flow_test.git
+	branch = "test"
 [submodule "lib/test"]
 	path = lib/test
 	url = https://github.com/metalzero6182/MetalZero.git
